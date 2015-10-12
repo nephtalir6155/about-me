@@ -15,5 +15,3 @@ Schedule
 6. SEP10  
 7. SEP10  
 8. SEP11
-
-Thanks!
