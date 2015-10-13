@@ -1,6 +1,6 @@
 # Mr. Mueller  
 ---
-## _Teacher_
+## _Software Engineering Teacher_
 #### **High School of Telecommunication Arts and Technology**  
 #### bmueller@hstat.org
 
