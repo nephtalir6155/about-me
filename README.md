@@ -8,13 +8,13 @@ Mr. Mueller grew up in Colorado and moved to Brooklyn, NY in 2011.  He began his
 
 Schedule  
 1. SEP11  
-2. Co-plan SEP  
-3. Math meeting  
-4. SEP09    
-5. Lunch  
+2. Mentor  
+3. Mentor  
+4. Prep  
+5. SEP11  
 6. SEP10  
-7. SEP10  
-8. SEP11
+7. Lunch  
+8. SEP12
 
 
 Thanks for viewing!
