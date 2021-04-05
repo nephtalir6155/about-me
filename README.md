@@ -1,22 +1,20 @@
-# Mr. Mueller  
+# Nephtali Roach  
 ---
-## _Software Engineering Teacher_
+## _Software Engineering Student_
 #### **High School of Telecommunication Arts and Technology**  
-#### bmueller@hstat.org
+#### nephtalir6155@hstat.org
 
-Mr. Mueller grew up in Colorado and moved to Brooklyn, NY in 2011.  He began his career as a math teacher, but switched to teaching computer science as a part of the NYC Software Engineering Pilot.
+I was born in Virginia, lived there for 4 years. Then moved to Georgia in '09 and lived there until we moved to New York in 2011. Will be 10 years here for in August 2021. 
 
-Schedule  
-1. Prep  
-2. SEP11  
-3. SEP11  
-4. Prep  
-5. SEP10  
-6. SEP10  
-7. APCSA  
-8. Prep
-
+ My Schedule 
+1. Wake up, breakfast, clean up myself
+2. Zoom class
+3. Complete work
+4. Take a break (game, tv, etc.)
+5. Complete work (if needed)
+6. Dinner 
+7. Finish the day
 
 Thanks for viewing!
 
-![halloween picture](brian-halloween.jpg)
+
