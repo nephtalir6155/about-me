@@ -13,7 +13,7 @@
 2. Zoom class
 3. Complete work
 #### And afterwards:
-- Take a break (game, tv, etc.)
+- Play some games, watch tv, etc.
 - Complete work (if needed)
 - Practice for SAT/ACT
 - Hobbies
