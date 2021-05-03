@@ -12,9 +12,10 @@
 1. Wake up, breakfast, clean up myself
 2. Zoom class
 3. Complete work
-#### And after:
+#### And afterwards:
 - Take a break (game, tv, etc.)
 - Complete work (if needed)
+- Hobbies
 - Dinner
 - Finish the day
 
